@@ -18,12 +18,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Sydney,AU"
 resume_url: docs/Sharon_Bernardino_Data_Analyst_Resume .pdf
-avatar_image: /img/profile_picture.JPG
+avatar_image: img/Professional Corporate Headshot.png
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/sharon-bernardino-b53b521a3/" 
+github: "https://github.com/Shazber"  
 
 paginate: 6
 paginate_path: "/page/:num"
